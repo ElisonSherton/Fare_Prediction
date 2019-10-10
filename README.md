@@ -9,11 +9,11 @@ The description of all the attributes is given in **Attributes_Description.docx*
 
 The **Fare_Prediction.ipynb** notebook mentions the approach taken, all the individual steps right from data cleaning to model building to making predictions and also contains references to validate it's use of several formulae (for distance calculation and such). The eventual summary of error metrics for different models after doing the analysis is as follows:
 
-![Summary of Error Metrics](Summary.png)
+![Summary of Error Metrics](Summary.PNG)
 
 **Best Model:** Decision Trees
 
-**Least RMSE:** 2.85 Currency Units
+**Least RMSE:** 2.77 Currency Units through alternate approach
 
 **References:**
 
